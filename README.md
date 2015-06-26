@@ -1,11 +1,10 @@
-<p align="center">
-  <a href="https://babeljs.io/">
-    <img alt="babel" src="https://raw.githubusercontent.com/babel/logo/master/logo.png" width="546">
-  </a>
-</p>
 
 <p align="center">
   The compiler for writing next generation JavaScript.
+</p>
+
+<p align="center">
+  This fork has ripped out all of the preloaded transformers and plugins so that I can have complete control of the transpilation process.
 </p>
 
 <p align="center">
